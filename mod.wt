@@ -1,0 +1,3 @@
+pub void printHelloWorld() {
+    println("Hello, World");
+}
